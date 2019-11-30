@@ -1,7 +1,7 @@
 # The-Glass-PIS19
 Working Code for Glass
 
-Two codes attatched
+Two codes attached
 
 1. BTFinal.ino  ## Uses bluetooth module and android interface
 2. Ultra.ino    ## Uses UltraSonic sensor for navigation
